@@ -5,5 +5,5 @@ data class Address(
     val state: String,
     val country: String,
     val zipCode: Int,
-    val piso: String = "",
-    val departamento: String = "")
+    val floor: String = "",
+    val department: String = "")

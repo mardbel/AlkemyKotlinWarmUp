@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/kotlinOne.iml" filepath="$PROJECT_DIR$/kotlinOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlkemyKotlinWarmUp.iml" filepath="$PROJECT_DIR$/AlkemyKotlinWarmUp.iml" />
     </modules>
   </component>
 </project>
